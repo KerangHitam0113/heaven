@@ -1,16 +1,16 @@
 body {
   background-color: rgb(255, 140, 71);
-  font-family: Arial
+  font-family: Arial, sans-serif;
   color: bc8ebd; rgb(208, 91, 4);
 }
 
 .Kartu-profil {
   width: 300px;
   margin: 50px auto;
-padding: 200px;
+padding: 20px;
   background-color: white;
   border-radius: 15px; 
-box-shadow: 0 4px 8px rgba(0.0.0.0.1);
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   text-align: center;
 }
 
